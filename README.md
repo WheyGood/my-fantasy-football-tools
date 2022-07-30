@@ -7,6 +7,11 @@ Fantasy Football Analysis Tools to help make informed draft and trade decisions
 
 - [@WheyGood (Matt S)](https://www.https://github.com/WheyGood)
 
+## Appendix
+
+[Sleeper Finder](#fantasyPros-live-scrape-sleeper-finder)
+
+
 ## FantasyPros Live Scrape Sleeper Finder
 
 Value over replacement based sleeper ranking program.  Print sleepers to screen to determine 
