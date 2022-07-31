@@ -12,6 +12,7 @@ Fantasy Football Analysis Tools to help make informed draft and trade decisions
 - [Sleeper Finder](#fantasyPros-live-scrape-sleeper-finder)
 - [VOR Values Downloader](#fantasyPros-normalized-vOR-downloader)
 
+---
 
 ## FantasyPros Live Scrape Sleeper Finder
 
@@ -58,6 +59,8 @@ Typically, 13 or 14 is a normal for this value.
 ![](images/sleeper_args.png)
 
 ![](images/sleeper_output.png)
+
+---
 
 ## FantasyPros Normalized VOR Downloader
 
