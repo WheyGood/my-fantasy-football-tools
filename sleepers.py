@@ -18,9 +18,6 @@ try:
         raise Exception('Not a league type')
 except ValueError as e:
     quit()
-# league_size = 12
-# league_type = 'h'
-# players_per_roster = 15
 
 # Dictionary for the three league types
 league_types = {
