@@ -9,8 +9,8 @@ Fantasy Football Analysis Tools to help make informed draft and trade decisions
 
 ## Appendix
 
-[Sleeper Finder](#fantasyPros-live-scrape-sleeper-finder)
-[VOR Values Downloader](#fantasyPros-normalized-vOR-downloader)
+- [Sleeper Finder](#fantasyPros-live-scrape-sleeper-finder)
+- [VOR Values Downloader](#fantasyPros-normalized-vOR-downloader)
 
 
 ## FantasyPros Live Scrape Sleeper Finder
