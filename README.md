@@ -12,6 +12,16 @@ Fantasy Football Analysis Tools to help make informed draft and trade decisions
 - [Sleeper Finder](#fantasyPros-live-scrape-sleeper-finder)
 - [VOR Values Downloader](#fantasyPros-normalized-vOR-downloader)
 
+## Tech Stack
+
+Language: Python 3.9.4
+
+Packages:
+
+- Pandas 1.2.5
+
+- BeautifulSoup 4.11.1
+
 ---
 
 ## FantasyPros Live Scrape Sleeper Finder
