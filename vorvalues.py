@@ -93,7 +93,8 @@ total['FAN_PTS'] = (
         total['RUSHING_TDS'] * scoring_weights['rushing_td'] +
         total['MISC_FL'] * scoring_weights['fumble'] +
         total['RECEIVING_YDS'] * scoring_weights['receiving_yds'] +
-        total['RECEIVING_TDS'] * scoring_weights['receiving_td']
+        total['RECEIVING_TDS'] * scoring_weights['receiving_td'] +
+        total['RECEIVING_REC'] * scoring_weights['receptions']
 )
 # --- END Add Fantasy Points to the Projection DF based on league type ---
 
